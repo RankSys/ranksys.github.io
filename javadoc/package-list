@@ -64,3 +64,11 @@ es.uam.eps.ir.ranksys.rec.fast
 es.uam.eps.ir.ranksys.rec.fast.basic
 es.uam.eps.ir.ranksys.rec.runner
 es.uam.eps.ir.ranksys.rec.runner.fast
+org.ranksys.compression.codecs
+org.ranksys.compression.codecs.catena
+org.ranksys.compression.codecs.dsi
+org.ranksys.compression.codecs.lemire
+org.ranksys.compression.preferences
+org.ranksys.compression.util
+org.ranksys.core.util.iterators
+org.ranksys.rec.fast
