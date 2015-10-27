@@ -71,4 +71,5 @@ org.ranksys.compression.codecs.lemire
 org.ranksys.compression.preferences
 org.ranksys.compression.util
 org.ranksys.core.util.iterators
+org.ranksys.examples
 org.ranksys.rec.fast
