@@ -73,4 +73,5 @@ org.ranksys.compression.util
 org.ranksys.core.util.iterators
 org.ranksys.examples
 org.ranksys.novdiv.reranking
+org.ranksys.ranksys.lda
 org.ranksys.rec.fast
