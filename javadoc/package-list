@@ -65,13 +65,15 @@ es.uam.eps.ir.ranksys.rec.fast.basic
 es.uam.eps.ir.ranksys.rec.runner
 es.uam.eps.ir.ranksys.rec.runner.fast
 org.ranksys.compression.codecs
-org.ranksys.compression.codecs.catena
 org.ranksys.compression.codecs.dsi
 org.ranksys.compression.codecs.lemire
 org.ranksys.compression.preferences
 org.ranksys.compression.util
 org.ranksys.core.util.iterators
+org.ranksys.diversity.prop.metrics
+org.ranksys.diversity.prop.reranking
 org.ranksys.examples
+org.ranksys.lda
+org.ranksys.metrics.basic
 org.ranksys.novdiv.reranking
-org.ranksys.ranksys.lda
 org.ranksys.rec.fast
